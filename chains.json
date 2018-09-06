@@ -526,5 +526,21 @@
         "address": "0xEa4bC98E9cFAAdBa173B11fe341A5833c7E1A536"
       }
     }
+  },
+  "0x66df2d49816fa67fc3b8db11d8519d6422915313676fbdc707efcc0940fd2ffe": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x3C44709c295f10aa14231776aE6887f8921cb20B"
+      }
+    }
+  },
+  "0xbf40e6c7bdd2dcafb02339250bf7bfbb1ca1b1ab18a4b9ef7c82150db821e8df": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0x8E1d31e744d897A50207414e9C706DB1EfD1eC44"
+      }
+    }
   }
 }

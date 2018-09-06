@@ -27,14 +27,14 @@ contract Authorization {
         return verified[owner][signer];
     }
 
-    function cancel(address signer) public {
+    function cancel(address signer) public {         //owner can remove registed signer
         require (signer != msg.sender);
         require ( verified[msg.sender][signer] == true);
         verified[msg.sender][signer] = false;
         emit change(msg.sender, signer, verified[msg.sender][signer]);
     }
 
-    function getVerified (address signer) public view returns (bool) {
+    function getVerified (address signer) public view returns (bool) {    //owner can check whether the signer is registed
         require (signer != msg.sender);
         return verified[msg.sender][signer];
     }
