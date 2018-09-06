@@ -1,0 +1,530 @@
+{
+  "0xa1a48de70617a85e08dde809a95cfeb2dc1f8a681b35cb39b57f32e6c8a347aa": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0x728e8a82d4641f468e0dc0fbf2b8d33c8dbae70c43924e4cf71bacc8ac8b5383": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0x9acbc56cb62955fdfc86ff22c977d0bbc73fc9f11df19e5839b7874223d96ae7": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0x38a8381d71d12f0747bdba9b907ee5a828567ae27b726b79ede16f2e79f80580": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0x6e42e37dfe295ac045c185491aa4738490d3655843ed3fea7ccbfc75b9831a92": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0x0705716862ecafefc714c3a2325f06e26dc394ad1961203cca6bf33e4f768aab": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0x54d45f0a9bdf9fd77a8d8e5d6b38371139d2b63939b5a5b20f3038a6c86341a1": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0xd884f14c11994611b084af291b5aa45c6a035b663852c38e6deefe59675cf615": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0x5cff7f76cfd3dc302061bb33cc9aec87da4567dcf4214b05030e14f39e46434f": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0xe0c99eb743484b31236834706070d7fdace184cb9b3cb6bf8a70b3d8b03ad9ff": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x973b2246600AB8058FecdbF59dFD8202A30331ba"
+      }
+    }
+  },
+  "0x3347f37f12eb93d89040cfcc23e1e56de81d7f4c61b1259aa662114d8a868b72": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x2D944222344114eBA28776129E06d32547303954"
+      }
+    }
+  },
+  "0x4e27a3d0ef249ae04253dda16921e2ef4eacda8ce8c7d61d8afa8defe4c5a628": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x2D944222344114eBA28776129E06d32547303954"
+      }
+    }
+  },
+  "0x9a69132ec63284137046d506c03ec7b9933ec2bff9c359e2da71a83c7eb93ee4": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x2D944222344114eBA28776129E06d32547303954"
+      }
+    }
+  },
+  "0xdf289135d02e42355784690903762adfea59be8add11b9206443e5ad9d2b83f6": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x2D944222344114eBA28776129E06d32547303954"
+      }
+    }
+  },
+  "0x34238f9be7f181f495600eea4d1f919ba9e59dc53c4aa025092fb5f68dcba15b": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x85D5D4126d3A5e8dc1a58617f07F5CE2A93EFDe7"
+      }
+    }
+  },
+  "0x74a3c1f403985370694f51825566ecfc3ba0bb6545f28f78307045b7c44eea95": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x1a7621d82fF031CE3957cDE0F0EF6FD9A1BaE2a6"
+      }
+    }
+  },
+  "0xc1b16952228090ab4e7fecf997e5f58e400b243f5ebc52e6ed367747532e0c18": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x1d70459b315eb622a460c7e895e32c672fA3Dbe7"
+      }
+    }
+  },
+  "0xbe2890890c586d0a3e5b87b4c099ffceae1a48a17f6bdbed621cf88a966f1900": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x180543f70C7b4870F43D6fF1FaED01FA97540c0E"
+      }
+    }
+  },
+  "0xd3a7785b1b7dfd6263802385ba1d8a4f80b5f5345bda590f4684bda0b5a01faa": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xa998D43300abaa09B60d463DE4E143A358a025a2"
+      }
+    }
+  },
+  "0x4ed1bfef44fdd88c5f10fb025341190952f757c61fabf35bc6748294e88df942": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xe27F526336b6e4dF02F5D5Be280A2e7beFF3Ff91"
+      }
+    }
+  },
+  "0x5002a48987891c6d93284ed8ce0edb5c549638a6b0725c308feae4f3bb6fc3f6": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x0d50b05d0e037AE5c83A2f92fd7D2B9Bf574a891"
+      }
+    }
+  },
+  "0xe59586855b7c34445032cbe683dc0658530e301549effda9ef249c5358bb8754": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xB10f40e3190F16B1868F614Fd8C9B15B466c977f"
+      }
+    }
+  },
+  "0x1a964e46b746fc1074cd850f09a191a2897d767460c649c86f6b83d31bdc25a9": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xd111759E97E6Cd3Fcf0f9Bc76294154C6026425C"
+      }
+    }
+  },
+  "0xcf292092658859088ab1418de785f232339a7209bceff3ab5601fc74ad0d71b3": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x6bFbfd881cd0a3614ce52c385024d2aFcbB11C26"
+      }
+    }
+  },
+  "0xb841173ad9c41ff5f4b884e1faf4d92e8b8e83c989eb7a40682f8556db05b45b": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xB0C880709F9659F498D9e29A9E11c9Cf0D36a7f5"
+      }
+    }
+  },
+  "0x0277ebe1ef1507d61a616352c63d94e8b20f5d47552bbe3106e8b6826afaee52": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x9d0ac2fDA23a2272c63357e86aDB4E25Aa4e7b5F"
+      }
+    }
+  },
+  "0x135def6613b3087bbda40444f01244f8fc94792c1815b0567ccad4f5fb35b307": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x292c545d65483634e1211De8Ba8Ca5D18ffB5687"
+      }
+    }
+  },
+  "0xad3ca98401b310c71d77eefa29957ab24a34e292cbef45dbd267a5a7de116c44": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x89F2B369C3644858CEc6A295Fd0084F0Ee7694Ae"
+      }
+    }
+  },
+  "0xcada33d939f741702ecde15374ef353442db88a574952e28edf9be251422ccbd": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xd7002780f8614b2E9ED734db49D941fA313d91Aa"
+      }
+    }
+  },
+  "0x6bd3ef5a09d86ba129597302cc48469d0ee712643f3059a22f3f8aef628969ba": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xb1eE239f334a4Ddf8BCE513B48c3a462B14d3307"
+      }
+    }
+  },
+  "0xea30ab56e822d89e25bc93869b0996213effe87a16ceb56b80ba62231559d6d7": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xFa4E634BC5F7B64404A9240fa9DdbA35406B2319"
+      }
+    }
+  },
+  "0x1fbaeb0b10fe1980885f72df1fd16c7f69c7537f3d9a493a5778495a15a81637": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x8E9a3862B19a916c41D95EBA1e69FA1e209b1163"
+      }
+    }
+  },
+  "0xe954fda74f2f699bed7b768d7be21ec3139504d8adc2a1cf841de2764aa8a977": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x2A11CE73e57fDcB6F4fd48cbc6e34088f3f8294c"
+      }
+    }
+  },
+  "0x42cf1ca742a859b38dec5bd5634db225aeb9ac6bf928a075083f6dc06dc39808": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x62A7aF7072D4882cdb63C39e2011ae30ffDf0622"
+      }
+    }
+  },
+  "0x65dfc3dac07eee9f3eee0f61a6e88ce33981e6de1429ac633fd29fbb5564049f": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xB678529B93Ccc350db898AED3da473AEf0aA67D2"
+      }
+    }
+  },
+  "0xa65e890cab61c47d66ce2f482ced343161e60d9ca6914eded0e609e9033020de": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x3977E21b81b5E1fE19B53d7F8e3cd77709eb194e"
+      }
+    }
+  },
+  "0x5ebfe87e292ed9ef6fc894d808860a2965f37739f7b0acbf25ac6c03c4897e0d": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xa8Fc0b6dB6B04641b754F1B9efD5c245B8f17AA6"
+      }
+    }
+  },
+  "0x7b1df358bba4506ad23ed5f6573d63d71ad049bd7453cdbb30503b21205f6f4d": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x945DcD6E56910B3E1c080B4d2D58F6bf23AF81c3"
+      }
+    }
+  },
+  "0x9d9e9d1e3b572dd2e5174895fd79ded88a097563cde899701dde228f93d2b11e": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xccbf44945C292015172fc7756666294Ae828a9e1"
+      }
+    }
+  },
+  "0x73e76c4f429437f49498d91fc51fddff4cb5b862492bc69a1a599b168409d506": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x11F57039244835E80265d50EC4F07F138b9CC054"
+      }
+    }
+  },
+  "0x578672dd01977e595bfb6a11a90bce66f6af2fe03f67c746ecd13582b714f924": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x104EEf4ef46dAa0fC1f3800968743ef651fCA528"
+      }
+    }
+  },
+  "0xe0712f4f1cbc27b9f44de3ca4f80bcf75028e15605214569a2c11198dd9b959a": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xfF1dF8E533c5Efb83B51E8a09fb05F8Ec7513e44"
+      }
+    }
+  },
+  "0x3161f2f91dc4dcadc9f39cdfe91ea591e107014748851b08305f714cfb24a64e": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x88154688465eEAeA2414bf9E99fDfAd99Fe3b805"
+      }
+    }
+  },
+  "0x557d98113e04674f539bbd85b0810af3ebd8013f052664a6feb3ca0c259ae9f0": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xEd904ce341FA39828EaC5c704374699F1e9557F9"
+      }
+    }
+  },
+  "0x425b99669f72acfe7efb243920ca7b7617b10be346cf4d91316aa7be0e1296b9": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x9FD4BCE14852a1dDe9CFcB4Fb76E8A75C5d10f4f"
+      }
+    }
+  },
+  "0xe7891d7f627d0090d0479cecada548dcf1d1931850b27ef6e6ccefa677217f84": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xa65Ea3305BfB42ed287252e5177ad155da07207F"
+      }
+    }
+  },
+  "0xa725b3174294466e7bdacdcdc9d76acf409d69450f18f369ca67228e331ffa46": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x0A788d1CeeC7C4FC5eBB018D29e519CaAb95aeaa"
+      }
+    }
+  },
+  "0x729971c4517e349b068a8ff412d2318a5626c642d2aa51298134d1035f6a5459": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x03fF699Cdc1b54440d78Ef095B50F8B4A07753D1"
+      }
+    }
+  },
+  "0x0bc191a63781fc2deafc36905d418a1d1991cf0ddd853480eab5399f059ce7b0": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x77033EA6C664D637b855918efd470a712F0DEeAd"
+      }
+    }
+  },
+  "0xf9b1d847441b121fc174f5a4d0a89e2eb37628ad7287c1538049bdd6720e0ee9": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x666B4E1f00C3E2B478797d643678d7ccE6784adA"
+      }
+    }
+  },
+  "0x9397865eaa5290acd96eaba43a356636cf8f8272c9bd0c92f8b8ccb56c787157": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xd85c2c4bd2D0c21050eC305F05c6BAEC8d8781B2"
+      }
+    }
+  },
+  "0xacfce47c45297aee19100dec8bb9e3e8dc9021a87581d48dcb8eb0e3664ed7cb": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x34C956c9b58636306f584abbf4E9e4A0d2F47909"
+      }
+    }
+  },
+  "0x92f91b18c7eab3fd0309704484675e654ff184955b8b98644fb6f2359cb047c7": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x25897AC19c1fB394556B4a88b930366CC11b331b"
+      }
+    }
+  },
+  "0xea301e52650cd96baec5ccc1cf88c4ffdcee2bfd493cfdbeb9b10d26d2ca239f": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x3F39F4d9B4A9Fa66e147D1973617d5eD5C293512"
+      }
+    }
+  },
+  "0x43e5a30c088ab16ac322e4e435a19f79ae7f3f850f5c6ff548d1e7de29e46e46": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x3fa5952203C0898C1786760274c8eE1724020B1A"
+      }
+    }
+  },
+  "0x30bd115b61949633cb98cc55640216db75f2fa0a004d4e6764903045ada5aabe": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xBF3946eB289cA8FdD7c256783786243437c73352"
+      }
+    }
+  },
+  "0xa68c05e4ea14a2875c3c2c8bcd7a30073a9ee5440ae44a3219f1c44cfad979d2": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x71493E34218C679380c650d4109452B892663d09"
+      }
+    }
+  },
+  "0x82172c22fae668c9ca2778e7702f502fcedd398eb5b4aebde24759cb0bd6b8e8": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x37592E527FD002d499af083B4F09FA8dE2a4f39B"
+      }
+    }
+  },
+  "0x37e32ee1ed0a12340c34a3a5aa72f1f1d7f5014d4b025c7fb010d243f977ffd7": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x0bF7B52c543931814Dd1c511EFD7E6eD92570eC8"
+      }
+    }
+  },
+  "0x306f7fced01db1b31851e73c40ad7696058f617cc57fb3fcee5519b3bd03ad11": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x68774A8283F9dbD0ff21Ae980b106a69033d0Fbf"
+      }
+    }
+  },
+  "0x3474eba17d7d7b0ed39bd250c7f7f587f8a0d70860de7eab0954923858073b15": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x97aD0a3262ca1e8C6101d9C25f2922754E2A3c09"
+      }
+    }
+  },
+  "0x5da5d27e53cdeb976722c08b611a53609f46a81b4bbeb0a8dbf82c23c65661e5": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x95EFac2c6c6FC2872bb5eBF2498B0654f88f00ef"
+      }
+    }
+  },
+  "0x731eb0c7256a85ef6d4520934601f9b3c2262166071f1c9e0ca51b68ca5f7087": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x6b560C01ee2cA6D19E9DE3C9d6BdaC2d905582F2"
+      }
+    }
+  },
+  "0x56fca88ae995e94dc9d3a9bbfcec3f6d29f5824fc60e7c7a5a5f41eff2330140": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x7D60Eb96416C3A3bf57581ca9985Ba8582BEB8dB"
+      }
+    }
+  },
+  "0xf454c38687337beffecae2053bcf5367b4c188789b6fef3035641192b12a6f11": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0x1003EB56D4666778Ae7cde800F4d02457A549986"
+      }
+    }
+  },
+  "0x67933c0047aa889489f2884c37b64c3ff72f8c1f8fc53dfcf95383a6ad8ea1c6": {
+    "contracts": {
+      "0x8f1af86c91e9a7da3739d34dc47ee849f8c73f743f1c76d12473f4bc33bd5699": {
+        "name": "Authorization",
+        "address": "0xEa4bC98E9cFAAdBa173B11fe341A5833c7E1A536"
+      }
+    }
+  }
+}
