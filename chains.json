@@ -542,5 +542,13 @@
         "address": "0x8E1d31e744d897A50207414e9C706DB1EfD1eC44"
       }
     }
+  },
+  "0x4040c1a60a839bb1335f3271594c1b4938ae679236d1c307c5d78c5ecddafbb4": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0x1A523615c12444EbB61389482589A6E475c3B06A"
+      }
+    }
   }
 }
