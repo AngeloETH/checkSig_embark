@@ -550,5 +550,69 @@
         "address": "0x1A523615c12444EbB61389482589A6E475c3B06A"
       }
     }
+  },
+  "0x867e4c0dbe50bdecad761957016dc47413bd96cf087a49c279d0816a65b2f1d4": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0x9d94dA428bA1a6dB341e1B93a0c86D1E4c2d6C3E"
+      }
+    }
+  },
+  "0x5dfc6378826f756310ae4e84beb15642d878d2789d6d10b213f6d1e6f607bafe": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0x95546473699E89e2a037aB5B1cBF08a2e6f300eC"
+      }
+    }
+  },
+  "0x7b312407af9cdf5cbdf7633460224043e74d87cf796adc8350b6854615ed797c": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0x50F0E98d7C82f6E3cF5c769990F9b486A0ad63fE"
+      }
+    }
+  },
+  "0x6fd694591af81e85dbe609f12a4310425c84fc4b2a3d96d83f83911b7064c788": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0x009d1F88c2fb22B0aa0926A4f4FE5CB5c5ecC695"
+      }
+    }
+  },
+  "0x741be8b9cf345eef03abde532a9d631869ba1bb52325df34c0dc09c229fd5190": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0x3B13230A784167eaAaCadE8d905806d91Ec07152"
+      }
+    }
+  },
+  "0xb888850d8c552be61c10e3b68eee92c50db982d63e9afc0699c923f1d29b4886": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0xf49e6df16b5A438d345db71E26Ee0A71A46C6a36"
+      }
+    }
+  },
+  "0xb8d6374ee8700bc700f2ca607c9542a149d0b2d2a7a39cb57c83867c270324a5": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0x82F62093be41cBa2Fc2fd8c0Acd6C5bEd19d6Eac"
+      }
+    }
+  },
+  "0x86095f5b977bfd69195cc656c0e9bc7dcb53d7503206cfcc5af9dbbabcc35050": {
+    "contracts": {
+      "0xcfb872f2b906006050bcf5169eb24510b25346f867d89991bf746a5dd67b4d8e": {
+        "name": "Authorization",
+        "address": "0x4de93357F6c6BcAa49aeF7941ea03c8158f8E207"
+      }
+    }
   }
 }

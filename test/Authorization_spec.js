@@ -56,6 +56,10 @@ contract("Authorization contract", function (){
         await authorization.cancel(accounts.signer).send({from: accounts.owner});
         assert.equal(await authorization.getVerified(accounts.signer).call({from: accounts.owner}),false);
     })
+
+    it('user1 => CheckSig(TEST_MESSAGE, v, r, s, owner) === false. The owner has removed the signer', async function(){
+        assert.equal(await authorization.checkSig(TEST_MESSAGE, v, r, s, accounts.owner).call({from: accounts.user1}),false);
+    })
     
     
 })
